@@ -10,6 +10,7 @@
 // @match        *://shiki.one/*
 // @downloadURL  https://github.com/Reverend322/Shikimori-Average-score/raw/main/Shikimori-Average-score.user.js
 // @updateURL    https://github.com/Reverend322/Shikimori-Average-score/raw/main/Shikimori-Average-score.user.js
+// @icon         https://shikimori.one/favicon.ico
 // @license      MIT
 // @grant        none
 // @run-at       document-end
