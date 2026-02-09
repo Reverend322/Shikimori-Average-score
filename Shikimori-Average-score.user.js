@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Shikimori Средний балл оценок
 // @namespace    https://shiki.one/Reverend
-// @version      1.0.1
+// @version      1.1
 // @description  Добавляет средний балл к распределению оценок на страницах Shikimori
 // @author       Reverend
 // @match        *://shiki.one/*
